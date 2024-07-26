@@ -1,5 +1,6 @@
-Curso Python para Data Science: linguagem e Numpy - Alura
+Cursos de Nivelamento de conhecimento para inicio da pós graduação em Data Analytics.
 
-Link plataforma: https://cursos.alura.com.br/course/python-tipos-listas-numpy
 
-https://cursos.alura.com.br/certificate/ab-geovanna24/python-tipos-listas-numpy
+Curso: Python para Data Science
+Curso: Python para Data Sciente: Linguagem e Numpy
+Curso: Python para Data Science: Funções, Pacotes e Pandas
